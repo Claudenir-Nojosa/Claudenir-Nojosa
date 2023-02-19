@@ -1,6 +1,6 @@
 # ![image](https://user-images.githubusercontent.com/125202706/219908673-72e8d067-a54d-47ad-91d9-fc42509229c5.png) #Claudenir Nojosa
 
-**`Artesão Digital (Programador/Designer)`**
+**`Artesão Digital (Web Development/Machine Learning/Automation)`**
 
 Em construção...
 
