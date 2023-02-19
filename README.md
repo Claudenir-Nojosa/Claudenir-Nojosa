@@ -2,8 +2,7 @@
 
 **`Artesão Digital (Programador/Designer)`**
 
-Eu sou um estudante de programação, tentando construir minhas próprias ferramentas úteis no mundo digital. 
-Esse readme será atualizado, com toda certeza.
+Em construção...
 
    <p align="left">
       <a href="https://github.com/Claudenir-Nojosa?tab=followers">
