@@ -25,6 +25,17 @@ Em construção...
 
 <details>
  <summary><h3>👨‍💻 Trajetória do Claudenir</h3></summary>
-   Eu comecei minha vida entrando no mercado como contador especializado na área fiscal (pressão do sistema de escolher alguma formação logo após completar o terceiro ano do ensino médio), porém, não era o que eu estava procurando para fazer a vida toda. Então eu comecei a procurar áreas em que eu me identificasse, como eu já tenho uma base de inglês desde a minha infância (jogando RPG's), e com curso de inglês concluído. Além disso, gostava muito de matemática, me deparei com o universo que é a programação.
-   Desde então, meu foco é adquirir conhecimento nesse novo mundo, unindo teoria e prática, utilizando as linguagens HTML, CSS, JavaScript e Python para ser um profissional fullstack especializado em Python.
+   Sou contador pela Universidade de Fortaleza (Unifor), atuando há quase 5 anos no mercado, trabalhando em equipe com foco em entregas dentro do prazo legal e com qualidade. 
+
+No escritório onde eu trabalho, há um foco muito alto em tecnologia, tendo um setor próprio de automação. Eu senti naquele momento a importância e o que algumas linhas de código podiam gerar de impacto em um operacional inteiro de uma empresa. O que antes era um trabalho manual e cansativo, agora era automático e fluído.
+
+Passei a me interessar mais, e observei que na realidade o meu perfil se encaixa perfeitamente com programação, pois sempre gostei de solucionar problemas, tecnologia, inglês e matemática.
+
+Sabendo disso, comecei os estudos em programação, começando pelo curso “The complete 2023 Web Development Bootcamp”, da professora Angela Yu. O curso era introdutório mas dali eu tive a certeza do que eu queria para a vida.
+
+Para me aprofundar mais, adquiri o curso “Desenvolvedor Fullstack Python” da Escola Britânica de Artes Criativas e Tecnologia (EBAC). Curso esse o qual me apresentou e ensinou por meio de criações de projetos desafiadores, novas linguagens de programação e como utilizá-las em desenvolvimento e soluções de software. 
+
+Como estou atualmente em transição de carreira, as minhas soft-skills desenvolvidas em 5 anos, tais como comunicação, trabalho em equipe, entrega com qualidade, análise de informações/dados, as utilizarei nessa nova área. 
+
+Como dito antes, meu trabalho foi impactado muito positivamente por programador, eu tenho interesse em ser agora esse programador e desenvolver aplicações que possam ajudar o dia a dia das pessoas de alguma forma.
   
