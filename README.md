@@ -7,9 +7,11 @@
 </div>
 
 <ul>
- <li> <h5> Estou focando em aprender tecnologias front/back, usando <strong> Python </strong> como a principal linguagem. </h5> </li>
- <li> <h5> Atualmente estou estudando <strong> grunt </strong>. </h5> </li>
- <li> <h5> Aluno da https://www.instagram.com/e.b.a.c/. </h5> </li>
+ <h5>
+<li>Estou focando em aprender tecnologias front/back, usando <strong> Python </strong> como a principal linguagem.</li>
+ <li>Atualmente estou estudando <strong> grunt </strong>.</li>
+ <li>Aluno da https://www.instagram.com/e.b.a.c/.</li>
+ </h5>
 </ul>
 
 
