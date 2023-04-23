@@ -5,15 +5,15 @@
 
 <div align="left">
  
- <h3> Olá, tudo bem? <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="25"></h3>
+ <h4> Olá, tudo bem? <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="25"></h4>
 </div>
 
 <ul>
- <h4>
+
  <li>Estou focando em aprender tecnologias front/back, usando <strong> Python </strong> como a principal linguagem.</li>
  <li>Atualmente estou estudando <strong> grunt </strong>.</li>
  <li>Aluno da https://www.instagram.com/e.b.a.c/.</li>
- </h4>
+
 </ul>
 
 
