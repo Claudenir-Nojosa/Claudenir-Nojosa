@@ -8,7 +8,7 @@
 
 <ul>
  <h5>
-<li>Estou focando em aprender tecnologias front/back, usando <strong> Python </strong> como a principal linguagem.</li>
+ <li>Estou focando em aprender tecnologias front/back, usando <strong> Python </strong> como a principal linguagem.</li>
  <li>Atualmente estou estudando <strong> grunt </strong>.</li>
  <li>Aluno da https://www.instagram.com/e.b.a.c/.</li>
  </h5>
