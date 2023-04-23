@@ -1,26 +1,8 @@
-# ![image](https://user-images.githubusercontent.com/125202706/219908673-72e8d067-a54d-47ad-91d9-fc42509229c5.png) #Claudenir Nojosa
-
-**`Artesão Digital (Web Development/Machine Learning/Automation)`**
-
-Em construção...
-
-   <p align="left">
-      <a href="https://github.com/Claudenir-Nojosa?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Claudenir-Nojosa?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/Claudenir-Nojosa?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Claudenir-Nojosa?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
-
----
-
-### 🧰 Linguagens e ferramentas
-
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-
-#
+ I am the steering committee member of [Envoy Gateway](https://github.com/envoyproxy/gateway).
++ I am the maintainer of [@envoyproxy](https://github.com/envoyproxy), [@istio](https://github.com/istio), [@kiali](https://github.com/kiali), [@aeraki-mesh](https://github.com/aeraki-mesh) and [@merbridge](https://github.com/merbridge).
++ I am the committer of [@mosn](https://github.com/mosn) and [@higress](https://github.com/higress-group).
++ I am the reviewer of [Kubernetes Gateway API](https://github.com/kubernetes-sigs/gateway-api).
++ I am the member of [@kubernetes](https://github.com/kubernetes), [@kubernetes-sigs](https://github.com/kubernetes-sigs) and [@kubevela](https://github.com/kubevela).
 
 
 <details>
