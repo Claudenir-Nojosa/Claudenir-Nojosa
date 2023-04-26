@@ -13,7 +13,7 @@
 
 <ul>
  <li>Estou focando em aprender tecnologias front/back, usando <strong> Python </strong> como a principal linguagem.</li>
- <li>Atualmente estou estudando <strong> grunt </strong>.</li>
+ <li>Atualmente estou estudando <strong> CLI/Node.js </strong>.</li>
  <li>Aluno da https://www.instagram.com/e.b.a.c/.</li>
 </ul>
 
