@@ -13,8 +13,8 @@
 
 <ul>
  <li>Focado em aprender novas tecnologias para ser um profissional completo. </li>
-  <li>A principal linguagem frontend será  <strong> React </strong>. </li>
- <li>A principal linguagem backend será  <strong> Node </strong>. </li>
+ <li>Principal linguagem frontend: <strong> React </strong>. </li>
+ <li>Principal linguagem backend: <strong> Node </strong>. </li>
  <li>Atualmente estou estudando <strong> Node.js </strong>.</li>
  <li>Aluno da https://www.instagram.com/e.b.a.c/.</li>
 </ul>
@@ -23,7 +23,6 @@
 
 <img align="left" alt="Java" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 <img align="left" alt="Java" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<img align="left" alt="Java" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 <img align="left" alt="Java" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img align="left" alt="Java" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 <img align="left" alt="Java" width="25px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
