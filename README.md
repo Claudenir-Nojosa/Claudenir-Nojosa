@@ -20,9 +20,6 @@
  <li>Aluno da https://www.instagram.com/e.b.a.c/.</li>
 </ul>
 
-
-<br />
-
 #
 <details>
  <summary><h3>👨‍💻 Jornada do Claudenir</h3></summary>
