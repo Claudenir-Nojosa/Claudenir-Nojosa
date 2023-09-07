@@ -1,3 +1,7 @@
+
+![MERN](https://github.com/Claudenir-Nojosa/Claudenir-Nojosa/assets/125202706/00663d11-c921-41e8-a468-6133b6fd21e9)
+
+
 <div align='center'>
  
 ![](https://komarev.com/ghpvc/?username=Claudenir-Nojosa)
