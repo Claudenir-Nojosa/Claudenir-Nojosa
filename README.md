@@ -14,9 +14,12 @@
 <div>
     <h1 align="center"><b><i>Seja bem vindo!</i></b></h1>
  <div align='left'>
-    <p align="left"><i>Lorem ipsum dolor sit amet. Sed necessitatibus consequuntur quo rerum commodi qui debitis repudiandae et similique quidem et odio distinctio ut officia minus. Eum enim corporis qui rerum minima et exercitationem laboriosam. Ex voluptas perferendis et maxime quia ut neque sequi ea dolorem enim et dolorem quaerat ad dicta illo. </i></p>
-    <p align="left"><i>Et alias perspiciatis est labore temporibus est quae quia et voluptatem iure. Et enim velit qui quaerat omnis 33 omnis excepturi. Non temporibus labore et incidunt optio et dolor blanditiis vel consequatur rerum? </i></p>
-    <p align="left"><i>Quo consequatur itaque qui adipisci voluptatem ex animi vero. Sit necessitatibus facilis id odit voluptatum sit galisum impedit qui nesciunt dolorem et accusantium eveniet. Rem minus atque aut iste dignissimos eum quidem numquam aut ratione perferendis eum sequi omnis. Quo eaque nihil ea molestiae deleniti cum quisquam dolores nam velit tenetur et sequi atque At numquam fugiat rem illo inventore. .</i></p>
+    <p align="left"><i>Sou contador pela Universidade de Fortaleza (Unifor), atuando há quase 5 anos no mercado, trabalhando em equipe com foco em entregas dentro do prazo legal e com qualidade. <br>
+Ao longo do tempo, desenvolvi um interesse crescente pela programação e percebi que meu perfil se alinha de forma ideal com essa área. Sempre fui apaixonado por solucionar problemas, tecnologia, matemática e inglês, e essas paixões naturalmente me conduziram ao mundo da programação.
+</i></p>
+    <p align="left"><i>Para aprimorar minhas habilidades e conhecimentos, busquei aperfeiçoamento através do curso "Desenvolvedor Fullstack Python" oferecido pela Escola Britânica de Artes Criativas e Tecnologia (EBAC). Este curso foi uma experiência enriquecedora, que me desafiou por meio de projetos complexos, introduziu-me a novas linguagens de programação e ensinou-me como aplicá-las no desenvolvimento e na criação de soluções de software. <br>
+Além disso, como segunda graduação estou cursando Análise e Desenvolvimento de Sistemas pela Uninter.</i></p>
+    <p align="left"><i>Com o passar do tempo, descobri minha paixão pelo MERN Stack (MongoDB, Express, React, Node.js), e venho me dedicando intensamente a aprimorar minhas habilidades nessa tecnologia. É a área em que estou concentrando meus esforços atualmente, com o objetivo de me tornar um desenvolvedor altamente competente.</i></p>
   
  </div>
  <hr>
