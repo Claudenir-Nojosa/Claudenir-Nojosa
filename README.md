@@ -1,8 +1,3 @@
-
-![capa-github](https://github.com/Claudenir-Nojosa/Claudenir-Nojosa/assets/125202706/ede7b186-2f91-46bd-a1fd-3b2d336d1819)
-
-
-
 <div align='center'>
  
 ![](https://komarev.com/ghpvc/?username=Claudenir-Nojosa)
