@@ -36,11 +36,11 @@ Além disso, como segunda graduação estou cursando Análise e Desenvolvimento 
     <h3 align="center">Linguagens</h3>
     <img alt="Languages" src="https://skillicons.dev/icons?i=ts,js,html,css,bash&theme=dark">
     <h3 align="center">Frameworks</h3>
-    <img alt="Frameworks" src="https://skillicons.dev/icons?i=nodejs,react,express,next,jest&theme=dark">
+    <img alt="Frameworks" src="https://skillicons.dev/icons?i=nodejs,react,express,next&theme=dark">
     <h3 align="center">Database</h3>
     <img alt="Database" src="https://skillicons.dev/icons?i=mongodb&theme=dark">
     <h3 align="center">Ferramentas</h3>
-    <img alt="tools" src="https://skillicons.dev/icons?i=github,git,gulp,postman,redux,tailwind&theme=dark">
+    <img alt="tools" src="https://skillicons.dev/icons?i=github,git,redux,tailwind&theme=dark">
      <h3 align="center">Outros</h3>
     <img alt="others" src="https://skillicons.dev/icons?i=ps,vscode&theme=dark">
 </div>
