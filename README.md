@@ -40,6 +40,7 @@ Além disso, como segunda graduação estou cursando Análise e Desenvolvimento 
     <h3 align="center">Database</h3>
     <img alt="Database" src="https://skillicons.dev/icons?i=mongodb&theme=dark">
     <h3 align="center">Ferramentas</h3>
+    ![image]({https://img.shields.io/badge/Chart%20js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white})
     <img alt="tools" src="https://skillicons.dev/icons?i=github,git,redux,tailwind&theme=dark">
      <h3 align="center">Outros</h3>
     <img alt="others" src="https://skillicons.dev/icons?i=ps,vscode&theme=dark">
