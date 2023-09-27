@@ -41,7 +41,7 @@ Além disso, como segunda graduação estou cursando Análise e Desenvolvimento 
     <h3 align="center">Database</h3>
     <img alt="Database" src="https://skillicons.dev/icons?i=mongodb&theme=dark">
     <h3 align="center">Ferramentas</h3>
-    <img alt="tools" src="https://skillicons.dev/icons?i=github,git,redux,tailwind,prisma&theme=dark">
+    <img alt="tools" src="https://skillicons.dev/icons?i=github,git,redux,tailwind,prisma,postman&theme=dark">
     <img src="https://github.com/Claudenir-Nojosa/Claudenir-Nojosa/assets/125202706/7c020a97-5989-4a10-af2e-91aae045d1f0" alt="Texto Alternativo da Imagem 1" width="48">
     <img src="https://github.com/Claudenir-Nojosa/Claudenir-Nojosa/assets/125202706/5101e953-4b1c-46ac-aef1-5fe4e1473dff" alt="Texto Alternativo da Imagem 2" width="48">
     <img src="https://github.com/Claudenir-Nojosa/Claudenir-Nojosa/assets/125202706/f7f0445e-880f-41a5-a1df-2f1dbcf3a8a0" alt="Texto Alternativo da Imagem 3" width="48">
