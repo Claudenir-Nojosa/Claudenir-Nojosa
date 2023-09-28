@@ -19,8 +19,7 @@ Ao longo do tempo, desenvolvi um interesse crescente pela programação e perceb
 </i></p>
     <p align="left"><i>Para aprimorar minhas habilidades e conhecimentos, busquei aperfeiçoamento através do curso "Desenvolvedor Fullstack Python" oferecido pela Escola Britânica de Artes Criativas e Tecnologia (EBAC). Este curso foi uma experiência enriquecedora, que me desafiou por meio de projetos complexos, introduziu-me a novas linguagens de programação e ensinou-me como aplicá-las no desenvolvimento e na criação de soluções de software. <br>
 Além disso, como segunda graduação estou cursando Análise e Desenvolvimento de Sistemas pela Uninter.</i></p>
-    <p align="left"><i>Com o passar do tempo, descobri minha paixão pelo MERN Stack (MongoDB, Express, React, Node.js), e venho me dedicando intensamente a aprimorar minhas habilidades nessa tecnologia. É a área em que estou concentrando meus esforços atualmente, com o objetivo de me tornar um desenvolvedor altamente competente.</i></p>
- <p align="left"><i>Sempre aprendendo novas ferramentas.</i></p>
+    <p align="left"><i>Com o passar do tempo, descobri minha paixão pelo MERN Stack (MongoDB, Express, React, Node.js), e venho me dedicando intensamente a aprimorar minhas habilidades nessa tecnologia. É a área em que estou concentrando meus esforços atualmente, com o objetivo de me tornar um desenvolvedor altamente competente.</i></
   
  </div>
  <hr>
