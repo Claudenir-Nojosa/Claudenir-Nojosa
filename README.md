@@ -42,10 +42,13 @@ Além disso, como segunda graduação estou cursando Análise e Desenvolvimento 
     <h3 align="center">Ferramentas</h3>
     <img alt="tools" src="https://skillicons.dev/icons?i=github,git,redux,tailwind,prisma,postman&theme=dark">
     <img src="https://github.com/Claudenir-Nojosa/Claudenir-Nojosa/assets/125202706/7c020a97-5989-4a10-af2e-91aae045d1f0" alt="Texto Alternativo da Imagem 1" width="48">
-    <img src="https://github.com/Claudenir-Nojosa/Claudenir-Nojosa/assets/125202706/5101e953-4b1c-46ac-aef1-5fe4e1473dff" alt="Texto Alternativo da Imagem 2" width="48">
-    <img src="https://github.com/Claudenir-Nojosa/Claudenir-Nojosa/assets/125202706/f7f0445e-880f-41a5-a1df-2f1dbcf3a8a0" alt="Texto Alternativo da Imagem 3" width="48">
+    <img src="https://github.com/Claudenir-Nojosa/Claudenir-Nojosa/assets/125202706/f6d4dfe0-a28c-4d88-89d1-11c1930a3dad" alt="Texto Alternativo da Imagem 2" width="48">
+    <img src="https://github.com/Claudenir-Nojosa/Claudenir-Nojosa/assets/125202706/8aafbf7a-fed8-45d9-bbe1-8134d77e4d30" alt="Texto Alternativo da Imagem 3" width="48">
     <img src="https://github.com/Claudenir-Nojosa/Claudenir-Nojosa/assets/125202706/55734ad5-bfbd-4037-a905-6cbbd9c8ce6f" alt="Texto Alternativo da Imagem 4" width="48">
-     <h3 align="center">Outros</h3>
+    <img src="https://github.com/Claudenir-Nojosa/Claudenir-Nojosa/assets/125202706/fb3dd36f-1bb2-4716-9a43-314035fe677a" alt="Texto Alternativo da Imagem 5" width="48">
+    <img src="https://github.com/Claudenir-Nojosa/Claudenir-Nojosa/assets/125202706/78726af1-f382-47c9-a54b-558f9b4c92ae" alt="Texto Alternativo da Imagem 6" width="48">
+    <h3 align="center">Outros</h3>
     <img alt="others" src="https://skillicons.dev/icons?i=ps,vscode&theme=dark">
+ 
 </div>
 
