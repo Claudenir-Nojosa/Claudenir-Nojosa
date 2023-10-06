@@ -16,7 +16,7 @@ Ao longo do tempo, desenvolvi um interesse crescente pela programação e perceb
 </i></p>
     <p align="left"><i>Para aprimorar minhas habilidades e conhecimentos, busquei aperfeiçoamento através do curso "Desenvolvedor Fullstack Python" oferecido pela Escola Britânica de Artes Criativas e Tecnologia (EBAC). Este curso foi uma experiência enriquecedora, que me desafiou por meio de projetos complexos, introduziu-me a novas linguagens de programação e ensinou-me como aplicá-las no desenvolvimento e na criação de soluções de software. <br>
 Além disso, como segunda graduação estou cursando Análise e Desenvolvimento de Sistemas pela Uninter.</i></p>
-    <p align="left"><i>Com o passar do tempo, descobri minha paixão pelo Next.js, e venho me dedicando intensamente a aprimorar minhas habilidades nessa tecnologia, incluindo o uso de ferramentas como NextAuth para autenticação, Tailwind CSS para estilização, Chakra UI e MongoDB como banco de dados, Tanstack Query, Prisma e Mongoose como ORM, Zod e React Hook Form para validação e gerenciamento de formulários, assim como outras ferramentas...</i></<br>
+    <p align="left"><i>Com o passar do tempo, descobri minha paixão pelo Next.js, e venho me dedicando intensamente a aprimorar minhas habilidades nessa tecnologia, incluindo o uso de ferramentas como NextAuth para autenticação, Tailwind CSS para estilização utilizando shadcnUI e NextUI, MongoDB como banco de dados, Prisma e Mongoose como ORM, Zod e React Hook Form para validação e gerenciamento de formulários, assim como outras ferramentas...</i></<br>
     <p align="left"><i>Estou empolgado com meus esforços para me tornar um desenvolvedor altamente competente.</i></
   
  </div>
@@ -24,7 +24,7 @@ Além disso, como segunda graduação estou cursando Análise e Desenvolvimento 
     <div align='center'> 
  
 [![GitHub Streak](https://streak-stats.demolab.com?user=claudenir-nojosa&theme=transparent&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&ring=FFFFFF&fire=367588&currStreakLabel=367588&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=747F83)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claudenir-nojosa&locale=en&layout=compact&theme=transparent&show_icons=true&hide=stars,prs,issues,contribs&count_private=true&hide_rank=true&include_all_commits=true&title_color=367588&text_color=879599&icon_color=879599&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claudenir-nojosa&locale=pt-BR&layout=compact&theme=transparent&show_icons=true&hide=stars,prs,issues,contribs&count_private=true&hide_rank=true&include_all_commits=true&title_color=367588&text_color=879599&icon_color=879599&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=claudenir_nojosa)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://github-profile-trophy.vercel.app/?username=claudenir-nojosa&title=Commits,Repositories&theme=discord&no-bg=true&no-frame=true&column=-1">
     </div>
