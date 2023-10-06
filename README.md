@@ -25,7 +25,7 @@ Além disso, como segunda graduação estou cursando Análise e Desenvolvimento 
  
 [![GitHub Streak](https://streak-stats.demolab.com?user=claudenir-nojosa&theme=transparent&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&ring=FFFFFF&fire=367588&currStreakLabel=367588&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=747F83)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claudenir-nojosa&locale=pt-BR&layout=compact&theme=transparent&show_icons=true&hide=stars,prs,issues,contribs&count_private=true&hide_rank=true&include_all_commits=true&title_color=367588&text_color=879599&icon_color=879599&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=claudenir_nojosa)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=claudenir_nojosa&locale=pt-BR&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://github-profile-trophy.vercel.app/?username=claudenir-nojosa&title=Commits,Repositories&theme=discord&no-bg=true&no-frame=true&column=-1">
     </div>
 
