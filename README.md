@@ -33,7 +33,7 @@ Além disso, como segunda graduação estou cursando Análise e Desenvolvimento 
 <hr>
 <div align="center">
     <h3 align="center">Linguagens</h3>
-    <img alt="Languages" src="https://skillicons.dev/icons?i=ts,js,html,css,bash&theme=dark">
+    <img alt="Languages" src="https://skillicons.dev/icons?i=ts,js,html,css,bash,python&theme=dark">
     <h3 align="center">Frameworks</h3>
     <img alt="Frameworks" src="https://skillicons.dev/icons?i=nodejs,react,express,next&theme=dark">
     <h3 align="center">Database</h3>
