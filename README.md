@@ -1,5 +1,4 @@
-<div align='center'>
-<img src="https://github.com/Claudenir-Nojosa/Claudenir-Nojosa/assets/125202706/2727a138-1d8a-4d4e-bfb4-5c315110d94f" alt="Capa" width="auto" height="300px">
+
  
 ![](https://komarev.com/ghpvc/?username=Claudenir-Nojosa)
 [![General badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/snclaudenir/) 
