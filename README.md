@@ -13,11 +13,7 @@
     <p align="left"><i>Sou contador pela Universidade de Fortaleza (Unifor), atuando há quase 5 anos no mercado, trabalhando em equipe com foco em entregas dentro do prazo legal e com qualidade. <br>
 Ao longo do tempo, desenvolvi um interesse crescente pela programação e percebi que meu perfil se alinha de forma ideal com essa área. Sempre fui apaixonado por solucionar problemas, tecnologia, matemática e inglês, e essas paixões naturalmente me conduziram ao mundo da programação.
 </i></p>
-    <p align="left"><i>Para aprimorar minhas habilidades e conhecimentos, busquei aperfeiçoamento através do curso "Desenvolvedor Fullstack Python" oferecido pela Escola Britânica de Artes Criativas e Tecnologia (EBAC). Este curso foi uma experiência enriquecedora, que me desafiou por meio de projetos complexos, introduziu-me a novas linguagens de programação e ensinou-me como aplicá-las no desenvolvimento e na criação de soluções de software. <br>
-Além disso, como segunda graduação estou cursando Análise e Desenvolvimento de Sistemas pela Uninter.</i></p>
-    <p align="left"><i>Com o passar do tempo, descobri minha paixão pelo Next.js, e venho me dedicando intensamente a aprimorar minhas habilidades nessa tecnologia, incluindo o uso de ferramentas como NextAuth para autenticação, Tailwind CSS para estilização utilizando shadcnUI e NextUI, MongoDB como banco de dados, Prisma e Mongoose como ORM, Zod e React Hook Form para validação e gerenciamento de formulários, assim como outras ferramentas...Atualmente estou estudando python. </i></<br>
-    <p align="left"><i>Estou empolgado com meus esforços para me tornar um desenvolvedor altamente competente!Disponivel a emprego.</i></
-  
+    
  </div>
  <hr>
     <div align='center'> 
