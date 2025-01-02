@@ -10,8 +10,7 @@
 <div>
     <h1 align="center"><b><i>Seja bem vindo!</i></b></h1>
  <div align='left'>
-    <p align="left"><i>Sou contador pela Universidade de Fortaleza (Unifor), atuando há quase 5 anos no mercado, trabalhando em equipe com foco em entregas dentro do prazo legal e com qualidade. <br>
-Ao longo do tempo, desenvolvi um interesse crescente pela programação e percebi que meu perfil se alinha de forma ideal com essa área. Sempre fui apaixonado por solucionar problemas, tecnologia, matemática e inglês, e essas paixões naturalmente me conduziram ao mundo da programação.
+    <p align="left"><i>Sou contador pela Universidade de Fortaleza (Unifor), atuando há quase 7 anos no mercado, trabalhando em equipe com foco em entregas dentro do prazo legal e com qualidade. <br>
 </i></p>
     
  </div>
