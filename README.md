@@ -5,15 +5,7 @@
 [![General badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:clau.nojosaf@gmail.com)
 [![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claudenir-nojosa/)
 </div>
-
-
-<div>
-    <h1 align="center"><b><i>Seja bem vindo!</i></b></h1>
- <div align='left'>
-    <p align="left"><i>Sou contador pela Universidade de Fortaleza (Unifor), atuando há quase 7 anos no mercado, trabalhando em equipe com foco em entregas dentro do prazo legal e com qualidade. <br>
-</i></p>
     
- </div>
  <hr>
     <div align='center'> 
  
